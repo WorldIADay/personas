@@ -15,7 +15,9 @@ These personas would be helpful in ensuring our design decisions could adequatel
 ### Prospective Users
 These two personas represent users who are not currently using the WIAD archive, but show interest in doing so. These are key personas to focus on, as a positive experience with the WIAD archive could encourage the user to participate in future WIAD events and join their local IA community.
 
-(INSERT PERSONA)
+![Image of UX Professional]
+https://github.com/WorldIADay/personas/blob/master/img/UX%20Professional.png
+
 Source: 
 Miguel's group interview with industry professionals at a UX Meetup in Santa Monica & Javier's interviews with professionals who are also WIAD attendees. 
 
