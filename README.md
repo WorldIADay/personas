@@ -17,13 +17,7 @@ These two personas represent users who are not currently using the WIAD archive,
 
 [Professional](professional.md)
 
-![](img/new_user.png)
-
-Source:
-Jade and Gaby's cardsorting activity/interviews with students who have an interest in IA. 
-
-Description:
-Noobert, too, is not necessarily a WIAD attendee, but he is interested in the conversations of the IA community. As a student, Noobert is trying to figure out what he likes and what he wants to do, but feels drawn to IA. He is by no means fluent in the trends, concerns, or discourses of technology professionals, but is eager to learn.
+[Noobert](noobert.md)
 
 ### WIAD AFFILIATE PERSONAS
 These two personas demonstrate the goals and frustrations of those already using the WIAD archive. As contributors, however, their interests and concerns are quite different than those of the prospective users. Nonetheless, we felt that the WIAD archive was going to serve both IA practitioners and the IA-curious alike, and the wants and needs of those already using the site should be heard.
