@@ -24,9 +24,7 @@ These two personas demonstrate the goals and frustrations of those already using
 
 [Organizer](organizer.md)
 
-[Contributer](contributer.md)
-
-![](img/contributer.png)
+[Contributor](contributor.md)
 
 
 
