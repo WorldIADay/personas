@@ -1,4 +1,4 @@
-# Contributer
+# Contributor
 
 ![](img/contributer.png)
 
