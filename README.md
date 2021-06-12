@@ -22,16 +22,15 @@ These two personas represent users who are not currently using the WIAD archive,
 ### WIAD AFFILIATE PERSONAS
 These two personas demonstrate the goals and frustrations of those already using the WIAD archive. As contributors, however, their interests and concerns are quite different than those of the prospective users. Nonetheless, we felt that the WIAD archive was going to serve both IA practitioners and the IA-curious alike, and the wants and needs of those already using the site should be heard.
 
-![](img/organizer.png)
+[Organizer](organizer.md)
 
-Description:
-Her chief agenda for the WIAD archive is explicitly social and community-based. For her, this site should be welcoming and usable by anyone who comes across it, no matter their location, personal background or skill level. Ultimately, she finds joy in bringing people together and is excited for WIAD’s potential to spark conversations both locally and globally.
+[Contributer](contributer.md)
 
 ![](img/contributer.png)
 
-This affiliate, on the other hand, also sees the WIAD archive as a social tool, but as an avid content contributor, she wants her material to be easily findable. If she tells her colleague of her recent WIAD presentation, it should be quick and easy to find. Additionally, she wants for the process of uploading and editing to be streamline and simple to do.
 
-## Contirbute
+
+## Contribute
 Work on improving the usibilty of the WIAD website and its constituent parts are being worked on by Miguel Gutierrez, research@worldiaday.org
 
 Should you wish to contribute to research as an interviewee or have feedback, please feel to reach out to him.
