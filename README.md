@@ -19,6 +19,8 @@ These two personas represent users who are not currently using the WIAD archive,
 
 [Noobert](noobert.md)
 
+[Volunteer](volunteer.md)
+
 ### WIAD AFFILIATE PERSONAS
 These two personas demonstrate the goals and frustrations of those already using the WIAD archive. As contributors, however, their interests and concerns are quite different than those of the prospective users. Nonetheless, we felt that the WIAD archive was going to serve both IA practitioners and the IA-curious alike, and the wants and needs of those already using the site should be heard.
 
